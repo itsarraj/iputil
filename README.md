@@ -7,6 +7,12 @@ argument syntax differs across the Fedora/Debian/BSD forks) does, without
 shelling out to it or vendoring a C dependency. Both IPv4 and IPv6 are
 handled through the same code path.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
